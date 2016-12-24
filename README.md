@@ -30,6 +30,7 @@ So to sum it up - all you need for a system to "think" is to let it "fly along" 
 This is an exceedingly simple principle.
 
 Here is a sample session:
+
 ```
 > (load "pilots-ai.scm")
 (I GREET YOU MACHINE WHOSE MIND RESTS IN THE VOID)
